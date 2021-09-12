@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Gdy1_�ܹ��źй� {
+public class Gdy1_햄버거분배 {
 
 	public static void main(String[] args) throws IOException {
 

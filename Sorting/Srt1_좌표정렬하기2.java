@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Srt1_ÁÂÇ¥Á¤·ÄÇÏ±â2 {
+public class Srt1_ì¢Œí‘œì •ë ¬í•˜ê¸°2 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
