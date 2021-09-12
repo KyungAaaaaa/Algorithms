@@ -1,4 +1,4 @@
-package Srt;
+package Sorting;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Srt_좌표정렬하기2 {
+public class Srt1_좌표정렬하기2 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -32,7 +32,7 @@ public class Srt_좌표정렬하기2 {
 					return o1[1] - o2[1];
 			}
 		});
-		
+
 		for (int[] strings : position) {
 			bw.append(strings[0] + " " + strings[1] + "\n");
 		}
